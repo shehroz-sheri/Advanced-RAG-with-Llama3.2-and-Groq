@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+openai
+langchain-core
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence_transformers
+langchainhub
+groq
+langchain-groq
+beautifulsoup4
