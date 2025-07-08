@@ -94,7 +94,7 @@ The following Python libraries are used:
 ### Steps
 ## 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sithum-Bimsara/Advanced-RAG-with-Open-Source-LLMs-and-Groq.git
+   git clone https://github.com/shehroz-sheri/Advanced-RAG-with-Llama3.2-and-Groq
    cd Advanced-RAG-with-Open-Source-LLMs-and-Groq
    ```
 ## 2. Create a Virtual Environment
